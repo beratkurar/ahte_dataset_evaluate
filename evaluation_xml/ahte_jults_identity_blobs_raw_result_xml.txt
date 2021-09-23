@@ -1,0 +1,16 @@
+book1_page11.png	 pixel IU=0.88	 line IU=0.962	 line F1=0.981
+moc_test_10.png	 pixel IU=0.62	 line IU=0.642	 line F1=0.782
+moc_test_5.png	 pixel IU=0.59	 line IU=0.454	 line F1=0.625
+moc_test_6.png	 pixel IU=0.59	 line IU=0.466	 line F1=0.636
+moc_train_1.png	 pixel IU=0.63	 line IU=0.558	 line F1=0.716
+moc_train_15.png	 pixel IU=0.8	 line IU=0.888	 line F1=0.941
+moc_train_16.png	 pixel IU=0.71	 line IU=0.814	 line F1=0.897
+moc_train_17.png	 pixel IU=0.76	 line IU=0.851	 line F1=0.92
+moc_train_20.png	 pixel IU=0.79	 line IU=0.766	 line F1=0.867
+moc_train_3.png	 pixel IU=0.77	 line IU=0.827	 line F1=0.905
+
+
+
+mean pixel iu = 0.714
+mean line iu = 0.7228
+mean line f1 = 0.827
